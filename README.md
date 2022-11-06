@@ -1,1 +1,1 @@
-# Image Classification using transfer learning with Resnet18
+Image Classification using transfer learning with Resnet18
